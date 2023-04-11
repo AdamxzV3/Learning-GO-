@@ -1,2 +1,2 @@
 # Learning-GO-
-This will include GO Installer!
+I would be happy if anyone would provide me a some tips!
